@@ -397,7 +397,7 @@
         }
 
         .deal .price {
-            font-size: 26px;
+            font-size: 30px;
         }
 
         /* Testimonials */
