@@ -77,7 +77,7 @@
             align-items: center;
             gap: 12px;
             font-family: Poppins, sans-serif;
-            font-weight: 700;
+            font-weight: 600;
             font-size: 20px;
             color: var(--primary);
         }
